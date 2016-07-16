@@ -1,0 +1,7 @@
+Crazy testy text to see if this thing works.
+My script should print all this out
+Or maybe just a piece.
+It all depends, and I don't know how much
+I'll use this thing
+but it may as well be
+seven lines long. Woot.
